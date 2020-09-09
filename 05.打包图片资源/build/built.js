@@ -142,7 +142,7 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"830bf3c820562c180c8975c2a0d00557.jpg\");\n\n//# sourceURL=webpack:///./src/angular.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"830bf3c820.jpg\");\n\n//# sourceURL=webpack:///./src/angular.jpg?");
 
 /***/ }),
 
@@ -177,7 +177,7 @@ eval("var api = __webpack_require__(/*! ../../node_modules/style-loader/dist/run
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"c2f2c28284f319fafbe4ca4bb67b13b1.png\");\n\n//# sourceURL=webpack:///./src/react.png?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"c2f2c28284.png\");\n\n//# sourceURL=webpack:///./src/react.png?");
 
 /***/ }),
 
